@@ -1,0 +1,4 @@
+#Mon Mar 23 01:24:51 BDT 2020
+base.0=C\:\\Users\\Mumu\\Desktop\\android studio\\2\\Attendance App\\Attendance\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
